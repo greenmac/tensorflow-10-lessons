@@ -3,6 +3,9 @@ https://www.youtube.com/watch?v=eAtGqz8ytOI&index=1&list=PLjSwXXbVlK6IHzhLOMpwHH
 2019/03/04
 tensorflow01, tensorflow02
 
+2019/03/14
+tensorflow03
+
 
 1.
 https://my.oschina.net/u/2391658/blog/1919359
@@ -10,3 +13,6 @@ https://my.oschina.net/u/2391658/blog/1919359
        在训练过程中，参数的更新相纸损失函数梯度下降的方向。参数的更新公式为：
        假设损失函数为 loss = (w + 1)2。梯度是损失函数 loss 的导数为 ∇=2w+2。如参数初值为 5，学习率为 0.2，则参数和损失函数更新如下
 由结果可以看出，随着训练轮数增加学习率在不断减小
+
+2.MNIST網站
+http://yann.lecun.com/exdb/mnist/
